@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MadLevel6</string>
+
+    <string name="list_title">Movie List</string>
+    <string name="list_query">The most popular movies of</string>
+    <string name="list_button">SUBMIT</string>
+
+    <string name="detail_release_date">Release: %1$s</string>
+    <string name="detail_overview_title">Overview</string>
+</resources>

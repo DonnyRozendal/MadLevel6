@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Applanga>
+    <AllowStrings>app_name,list_title,list_query,list_button,</AllowStrings>
+    <PluginVersion>app:3.0.112,</PluginVersion>
+    <PackageName>nl.hva.madlevel6</PackageName>
+</Applanga>
